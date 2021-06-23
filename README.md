@@ -16,7 +16,7 @@
 ## Preview HUD
 <p align="center"><img src="https://i.imgur.com/Lzah8BM.png"></p>
 
-### Credits
+## Credits
   - Iris
   - HellSec
   - Litenon
