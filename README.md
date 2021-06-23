@@ -21,6 +21,7 @@
 
 
 ## Updates
+### 0.1
   - Custom Menu Screen
   - Added Flight With Auto No-Fall
   - Added Sprint
@@ -28,6 +29,11 @@
   - Added Full-Bright
   - Updated In Game HUD
 
+### 0.2
+  - Added Commands System
+  - Discord RPC
+  - Packet Events
+ 
 ## Credits
   - Iris
   - HellSec
