@@ -13,5 +13,8 @@
   - Protection against injection in the launcher (защита от инжекта в лаунчере)
   - Using java version above 1.7 (использование java версии ниже 1.7)
   
+## Preview HUD
+<p align="center"><img src="https://i.imgur.com/Lzah8BM.png"></p>
+
 ### Credits
   - Iris, HellSec, litenon, JamesPater
