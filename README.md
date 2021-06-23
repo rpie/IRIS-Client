@@ -17,8 +17,16 @@
 <p align="center"><img src="https://i.imgur.com/Lzah8BM.png"></p>
 
 ## Preview Menu
-<p align="center"><img src="https://i.imgur.com/ndSPffT.png"></p>
+<p align="center"><img src="https://i.imgur.com/OIm5X2i.png"></p>
 
+
+## Updates
+  - Custom Menu Screen
+  - Added Flight With Auto No-Fall
+  - Added Sprint
+  - Added Chat Wrapper
+  - Added Full-Bright
+  - Updated In Game HUD
 
 ## Credits
   - Iris
