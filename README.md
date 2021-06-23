@@ -17,4 +17,7 @@
 <p align="center"><img src="https://i.imgur.com/Lzah8BM.png"></p>
 
 ### Credits
-  - Iris, HellSec, litenon, JamesPater
+  - Iris
+  - HellSec
+  - Litenon
+  - JamesPater
