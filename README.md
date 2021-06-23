@@ -3,6 +3,10 @@
 # IRIS - A Multi-Function Minecraft Client for 1.8
   IRIS is a free and open-source hacked client created for Minecraft 1.8
 
+## Infomation on project
+  This project is being lively made, each change to the client on our side is being pushed to github automaticly every hour.
+  Thanks to Iris, litenon, and JamesPater for helping me learn and working with me to create this open source project for free!
+
 ## Possible causes of crashes
   - Using an injector that does not match the operating system or java bitness (использование инжекта не соответствующей с операционной системой или java разрядности)
   - Minecraft version does not match the declared (версия Minecraft не соответствует заявленной)
