@@ -16,6 +16,10 @@
 ## Preview HUD
 <p align="center"><img src="https://i.imgur.com/Lzah8BM.png"></p>
 
+## Preview Menu
+<p align="center"><img src="https://i.imgur.com/ndSPffT.png"></p>
+
+
 ## Credits
   - Iris
   - HellSec
