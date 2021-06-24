@@ -1,9 +1,9 @@
 <p align="center"><img src="https://github.com/rpie/IRIS-Client/raw/main/iris.png"></p>
 
 <div align="center">
-### <a href="https://github.com/rpie/IRIS-Client/wiki">Our Wiki</a>
-### <a href="https://github.com/rpie/IRIS-Client/wiki/Updates">Updates</a>
-### <a href="https://github.com/rpie/IRIS-Client/wiki/Credits">Credits</a>
+<a href="https://github.com/rpie/IRIS-Client/wiki">Our Wiki</a>
+<a href="https://github.com/rpie/IRIS-Client/wiki/Updates">Updates</a>
+<a href="https://github.com/rpie/IRIS-Client/wiki/Credits">Credits</a>
 </div>
 
 # IRIS - A Multi-Function Minecraft Client for 1.8
