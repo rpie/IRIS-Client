@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
+import zeroday.command.CommandManager;
+import zeroday.events.EventChat;
 import zeroday.events.mainEvent;
 import zeroday.modules.mainModule;
 import zeroday.modules.mainModule.Category;
@@ -17,9 +19,11 @@ public class mainClient {
 	public static String name = "ZeroDay", version = "0.1";
 	public static CopyOnWriteArrayList<mainModule> modules = new CopyOnWriteArrayList<mainModule>();
 	public static HUD hud = new HUD();
+	public static CommandManager commandManager = new CommandManager();
 	
 	public static void startup() {
-		System.out.println("Starting ZeroDay...");
+		DisClient.getInstance().getDiscordRP().start();
+		DisClient.getInstance().getDiscordRP().update("ZeroDay v0.1", "Made By HellSec");
 		
 		modules.add(new Fly());
 		modules.add(new Sprint());
@@ -29,8 +33,17 @@ public class mainClient {
 		modules.add(new AdvanceView());
 	}
 	
+	public static void shutdown() {		
+		DisClient.getInstance().shutdown();
+	}
+	
 	
 	public static void onEvent(mainEvent e) {
+		
+		if(e instanceof EventChat) {
+			commandManager.handleChat((EventChat)e);
+		}
+		
 		for(mainModule m: modules) {
 			if(!m.toggled)
 				continue;
@@ -47,6 +60,9 @@ public class mainClient {
 		}
 	}
 	
+	public static void settingsManager() {
+	}
+	
 	public List<mainModule> getModulesByCategory(Category c){
 		List<mainModule> modules = new ArrayList<mainModule>();
 		
@@ -57,4 +73,5 @@ public class mainClient {
 		
 		return modules;
 	}
+
 }
