@@ -21,9 +21,3 @@
 
 ## Preview Menu
 <p align="center"><img src="https://i.imgur.com/OIm5X2i.png"></p>
-
-## Credits
-  - Iris
-  - HellSec
-  - Litenon
-  - JamesPater
