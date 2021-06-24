@@ -14,7 +14,7 @@
   - Using java version above 1.7 (использование java версии ниже 1.7)
   
 ## Preview HUD
-<p align="center"><img src="https://i.imgur.com/Lzah8BM.png"></p>
+<p align="center"><img src="https://i.imgur.com/1Hfr69C.png"></p>
 
 ## Preview Menu
 <p align="center"><img src="https://i.imgur.com/OIm5X2i.png"></p>
@@ -33,7 +33,12 @@
   - Added Commands System
   - Discord RPC
   - Packet Events
- 
+
+### 0.3
+  - Added Custom Capes
+  - Updated In Game HUD
+  - Default GUI Replaced With A Darker Version
+
 ## Credits
   - Iris
   - HellSec
