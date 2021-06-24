@@ -1,6 +1,7 @@
 <p align="center"><img src="https://github.com/rpie/IRIS-Client/raw/main/iris.png"></p>
 
-<a href="https://github.com/rpie/IRIS-Client/wiki">Our Wiki</a>
+## <a href="https://github.com/rpie/IRIS-Client/wiki">Our Wiki</a>
+## <a href="https://github.com/rpie/IRIS-Client/wiki/Updates">Updates</a>
 
 # IRIS - A Multi-Function Minecraft Client for 1.8
   IRIS is a free and open-source hacked client created for Minecraft 1.8
@@ -20,31 +21,6 @@
 
 ## Preview Menu
 <p align="center"><img src="https://i.imgur.com/OIm5X2i.png"></p>
-
-
-## Updates
-### 0.1
-  - Custom Menu Screen
-  - Added Flight With Auto No-Fall
-  - Added Sprint
-  - Added Chat Wrapper
-  - Added Full-Bright
-  - Updated In Game HUD
-
-### 0.2
-  - Added Commands System
-  - Discord RPC
-  - Packet Events
-
-### 0.3
-  - Added Custom Capes
-  - Updated In Game HUD
-  - Default GUI Replaced With A Darker Version
-
-### 0.4
-  - OPTIMIZED WOOOOOOOO
-  - Optifine Installed By Default
-  - Auto-Disabled FPS Sync & Boost Performance
 
 ## Credits
   - Iris
