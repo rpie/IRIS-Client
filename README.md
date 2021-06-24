@@ -39,6 +39,11 @@
   - Updated In Game HUD
   - Default GUI Replaced With A Darker Version
 
+### 0.4
+  - OPTIMIZED WOOOOOOOO
+  - Optifine Installed By Default
+  - Auto-Disabled FPS Sync & Boost Performance
+
 ## Credits
   - Iris
   - HellSec
